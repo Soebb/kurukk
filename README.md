@@ -1,4 +1,4 @@
-# Media Search bot
+# Media Search Bot
 
 
 * Index channel or group files for inline search.
